@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: pocketlabs
+ * Author: Alberto Miranda <alberto.php@gmail.com>
  *
  * Created on May 7, 2013, 7:08 PM
  */
